@@ -1,0 +1,15 @@
+{
+  "name": "imagex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Weiping Cui",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.3.0"
+  }
+}
