@@ -3,3 +3,9 @@ node_modules
 *.jpg
 *.jpeg
 .DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
